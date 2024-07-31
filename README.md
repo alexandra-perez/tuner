@@ -1,2 +1,1 @@
-# trivia-game
 # tuner
